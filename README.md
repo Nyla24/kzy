@@ -5,4 +5,4 @@ always and forever proud of everything you accomplish,
 whether that's big or small you will have my support.
 
 console.log("tux approved") ♡
-https://nyla24.github.io/Card/
+https://nyla24.github.io/Miter/
